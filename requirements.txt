@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-ollama
+langchain-core
+python-dotenv
+beautifulsoup4
+duckduckgo-search
+langgraph
